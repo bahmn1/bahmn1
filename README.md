@@ -1,4 +1,4 @@
-yhttps://github.com/bahmn1/scaling-octo-garbanzo.gitecho "# scaling-octo-garbanzo" >> README.md
+7yhttps://github.com/bahmn1/scaling-octo-garbanzo.gitecho "# scaling-octo-garbanzo" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
